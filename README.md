@@ -1,4 +1,4 @@
-# Hi there, I'm [Al Imran Emon] 👋
+# Hi there, I'm Al Imran Emon 👋
 
 I'm a Computer Science major based in Dhaka, passionate about solving problems and building cool things with code.
 
@@ -10,7 +10,7 @@ I'm a Computer Science major based in Dhaka, passionate about solving problems a
 
 ## 💻 What I'm up to
 
-- Studying at [Green University of Bangladesh]
+- Studying at Green University of Bangladesh
 - Solving problems on [LeetCode](https://leetcode.com/imranonweb/)
 - Building small projects to apply my knowledge
 
