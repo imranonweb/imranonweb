@@ -5,6 +5,7 @@ I'm a Computer Science major based in Dhaka, passionate about solving problems a
 ## 🌱 I’m currently learning
 
 - C
+- C++
 - Java
 - Python
 
