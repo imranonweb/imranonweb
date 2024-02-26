@@ -15,7 +15,7 @@ I'm a Computer Science major based in Dhaka, passionate about solving problems a
 ## 💻 What I'm up to
 
 - Studying at Green University of Bangladesh
-- Solving problems on [CodeForces]_(https://codeforces.com/profile/imranonweb) [LeetCode](https://leetcode.com/imranonweb/) [BeeCrowd](https://www.beecrowd.com.br/judge/en/profile/900482)
+- Solving problems on [CodeForces](https://codeforces.com/profile/imranonweb) [LeetCode](https://leetcode.com/imranonweb/) [BeeCrowd](https://www.beecrowd.com.br/judge/en/profile/900482)
 - Building small projects to apply my knowledge
 
 ## 🔧 Technologies & Tools
