@@ -1,13 +1,16 @@
 # Hi there, I'm Al Imran Emon 👋
 
 I'm a Computer Science major based in Dhaka, passionate about solving problems and building cool things with code.
-
 ## 🌱 I’m currently learning
 
-- C
 - C++
 - Java
-- Python
+- Python (Intermediate)
+ 
+## 🌱 Learned
+
+- C
+- Python(Introductory)
 
 ## 💻 What I'm up to
 
@@ -16,7 +19,7 @@ I'm a Computer Science major based in Dhaka, passionate about solving problems a
 - Building small projects to apply my knowledge
 
 ## 🔧 Technologies & Tools
-- Languages: C, Java, Python
+- Languages: C, C++, Java, Python
 - IDEs: Visual Studio Code, CodeBlocks
 - Version Control: Git
 
