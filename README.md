@@ -1,31 +1,51 @@
-# Hi there, This is Al Imran Emon 👋
 
-I'm a Computer Science major based in Dhaka, passionate about solving problems and building cool things with code.
-## 🌱 I’m currently learning
+# Hi there! 👋 I’m Imran  
 
-- C++
-- Java
-- Python (Intermediate)
- 
-## 🌱 Learned
+![Profile Views](https://komarev.com/ghpvc/?username=imranonweb&color=blue&style=flat-square)  
+🎓 **Focused Learner | Aspiring Competitive Programmer | Future Innovator**  
 
-- C
-- Python(Introductory)
+---
 
-## 💻 What I'm up to
+## 🌟 About Me  
 
-- Studying at Green University of Bangladesh
-- Solving problems on [CodeForces](https://codeforces.com/profile/imranonweb) & [BeeCrowd](https://www.beecrowd.com.br/judge/en/profile/900482)
-- Building small projects to apply my knowledge
+- 🏫 **2nd-year Computer Science student** committed to academic excellence and personal growth.  
+- 💻 Actively learning **Data Structures and Algorithms** to strengthen problem-solving skills.  
+- 🏆 Exploring **Competitive Programming** to challenge myself and prepare for tech interviews.  
+- 🎯 Setting milestones for a career in tech by excelling in **university coursework** and **coding contests**.  
 
-## 🔧 Technologies & Tools
-- Languages: C, C++, Java, Python
-- IDEs: Visual Studio Code, CodeBlocks
-- Version Control: Git
+---
 
-## 📫 Connect with me
+## 🌐 Let's Connect  
 
-- LinkedIn: [@al-imran-emon](https://www.linkedin.com/in/al-imran-emon/)
-- Twitter: [@al_imran_emon](https://twitter.com/al_imran_emon)
+- 💼 [LinkedIn](https://linkedin.com/in/imranonweb)  
+- 📬 [Email](mailto:your-email@gmail.com)  
 
-Let's connect and code together! 😊
+---
+
+## ⚡ My Focus Areas  
+
+### Competitive Programming 🧩  
+- Languages: **C, C++, Python**  
+- Problem-solving platforms: **LeetCode, Codeforces, HackerRank**  
+- Current Goal: **Consistently solve problems to achieve mastery in CP concepts**  
+
+### Academic Excellence 🎓  
+- Strong in: **Data Structures, Algorithms, and Object-Oriented Programming (Java)**  
+- Coursework: **Digital Logic Design, Advanced Mathematics, Operating Systems**  
+- Goal: **Maintain high grades while expanding hands-on development skills**  
+
+---
+
+## 📈 GitHub Stats  
+
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranonweb&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranonweb&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Fun Fact  
+
+I thrive on challenges—whether it’s a tricky algorithm or a tough exam—and believe in the power of persistence and learning!  
+
+---
+
