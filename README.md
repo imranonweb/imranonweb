@@ -17,8 +17,8 @@
 
 ## 🌐 Let's Connect  
 
-- 💼 [LinkedIn](https://linkedin.com/in/imranonweb)  
-- 📬 [Email](mailto:your-email@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/al-imran-emon)  
+- 📬 [Email](mailto:imran990@duck.com)  
 
 ---
 
