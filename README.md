@@ -20,12 +20,6 @@
 - **Core Skills**: Algorithms, OOP, DSA, Competitive Programming, AI
 - **Tools**: Git, VS Code, IntelliJ
 
-### 📈 GitHub Stats
-
-
-
-
-
 ### 🏆 Achievements & Goals
 
 - ✅ **Mastering DSA & Competitive Programming**
