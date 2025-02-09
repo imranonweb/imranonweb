@@ -1,51 +1,51 @@
+## 👋 Hey, I'm Imran!
 
-# Hi there! 👋 I’m Imran  
+**Aspiring ICPC Competitor | CS Undergrad | Software Engineer in Progress**
 
-![Profile Views](https://komarev.com/ghpvc/?username=imranonweb&color=blue&style=flat-square)  
-🎓 **Focused Learner | Aspiring Competitive Programmer | Future Innovator**  
+![Profile Views]\([https://komarev.com/ghpvc/?username=imranonweb&label=Profile%20Views&color=blue&style=flat](https://komarev.com/ghpvc/?username=imranonweb\&label=Profile%20Views\&color=blue\&style=flat))
 
----
 
-## 🌟 About Me  
 
-- 🏫 **2nd-year Computer Science student** committed to academic excellence and personal growth.  
-- 💻 Actively learning **Data Structures and Algorithms** to strengthen problem-solving skills.  
-- 🏆 Exploring **Competitive Programming** to challenge myself and prepare for tech interviews.  
-- 🎯 Setting milestones for a career in tech by excelling in **university coursework** and **coding contests**.  
+### 🚀 About Me
 
----
+- 💻 **2nd Year CS Student** | Passionate about **Competitive Programming, Algorithms, AI & Development**.
+- 🏆 **ICPC Aspirant** | Aiming to **win an ICPC** & excel in **problem-solving**.
+- 🔥 **Determined & Focused** | Turning challenges into growth.
+- 🎯 **Tech Interests**: **DSA, CP, AI, Backend Development, System Design**.
+- 📚 **Learning**: Advanced **Data Structures & Algorithms, Low-Level System Design, AI & Machine Learning**.
+- 🌍 **Participating in IUPCS** | Pushing my problem-solving skills to the next level.
+- 🚀 **Targeting a Revolution in the Tech Industry** | Innovating for the future.
 
-## 🌐 Let's Connect  
+### ⚡ Tech Stack
 
-- 💼 [LinkedIn](https://linkedin.com/in/al-imran-emon)  
-- 📬 [Email](mailto:imran990@duck.com)  
+- **Languages**: C, C++, Java
+- **Core Skills**: Algorithms, OOP, DSA, Competitive Programming, AI
+- **Tools**: Git, VS Code, IntelliJ
 
----
+### 📈 GitHub Stats
 
-## ⚡ My Focus Areas  
+![Imran's GitHub Stats]\([https://github-readme-stats.vercel.app/api?username=imranonweb&show\_icons=true&theme=github\_dark&count\_private=true](https://github-readme-stats.vercel.app/api?username=imranonweb\&show_icons=true\&theme=github_dark\&count_private=true))
 
-### Competitive Programming 🧩  
-- Languages: **C, C++, Python**  
-- Problem-solving platforms: **LeetCode, Codeforces, HackerRank**  
-- Current Goal: **Consistently solve problems to achieve mastery in CP concepts**  
+![Top Languages]\([https://github-readme-stats.vercel.app/api/top-langs/?username=imranonweb&layout=compact&theme=github\_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=imranonweb\&layout=compact\&theme=github_dark))
 
-### Academic Excellence 🎓  
-- Strong in: **Data Structures, Algorithms, and Object-Oriented Programming (Java)**  
-- Coursework: **Digital Logic Design, Advanced Mathematics, Operating Systems**  
-- Goal: **Maintain high grades while expanding hands-on development skills**  
+### 🏆 Achievements & Goals
 
----
+- ✅ **Mastering DSA & Competitive Programming**
+- ✅ **Solving Problems Daily on CP Platforms**
+- 🚀 **Aiming for ICPC & Top Ranks in CP**
+- 🎯 **Becoming a Strong Developer by Next Year**
+- 🌟 **Contributing to AI & Tech Innovations**
 
-## 📈 GitHub Stats  
+### 📫 Connect with Me
 
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranonweb&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranonweb&layout=compact&theme=radical)  
-
----
-
-## 🌟 Fun Fact  
-
-I thrive on challenges—whether it’s a tricky algorithm or a tough exam—and believe in the power of persistence and learning!  
+- 💼 **LinkedIn**: linkedin.com/in/al-imran-emon
+- 💡 **Codeforces**: [codeforces.com/profile/imranonweb](#)
 
 ---
+
+*"Every setback is just a setup for a greater comeback."* 🔥
+
+*"Haters are just confused admirers who can't figure out why everyone loves you."* 😎
+
+
 
