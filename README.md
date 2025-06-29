@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Imran!
+## 👋 Hey, I'm Al Imran Emon!
 
 **Aspiring ICPC Competitor | CS Undergrad | Software Engineer in Progress**
 
