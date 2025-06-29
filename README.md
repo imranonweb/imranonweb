@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 💻 **2nd Year CS Student** | Passionate about **Competitive Programming, Algorithms, AI & Development**.
+- 💻 **3nd Year CS Student** | Passionate about **Competitive Programming, Algorithms, AI & Development**.
 - 🏆 **ICPC Aspirant** | Aiming to **win an ICPC** & excel in **problem-solving**.
 - 🔥 **Determined & Focused** | Turning challenges into growth.
 - 🎯 **Tech Interests**: \*\*DSA, CP, AI, Backend Development\*\*
