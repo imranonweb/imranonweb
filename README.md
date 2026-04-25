@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Al Imran Emon!
 
-**Aspiring ICPC Competitor | CS Undergrad | Software Engineer in Progress**
+**CS Undergrad | Software Engineer in Progress**
 
 ### 📫 Connect with Me
 
