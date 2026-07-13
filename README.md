@@ -1,16 +1,21 @@
 ## 👋 Hey, I'm Al Imran Emon!
 
-**CS Undergrad | Software Engineer in Progress**
+## 🚀 Currently
+
+* 🌱 Learning **Full-Stack Development**
+* 🧠 Solving **DSA** problems
+* ⚡ Building things
+* ☕ Always learning
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/al-imran-emon](https://www.linkedin.com/in/al-imran-emon)
-- 💡 **Codeforces**: [https://codeforces.com/profile/imranonweb](https://codeforces.com/profile/imranonweb)
+* 💼 **LinkedIn**: [al-imran-emon](https://www.linkedin.com/in/al-imran-emon)
 
----
-
-*"Every setback is just a setup for a greater comeback."* 🔥
-
-*"Haters are just confused admirers who can't figure out why everyone loves you."* 😎
+### CP Profle
+* 💡 **Codeforces**: [imranonweb](https://codeforces.com/profile/imranonweb)
+* ⭐ **CodeChef**: [imranonweb](https://www.codechef.com/users/imranonweb)
+* 
+### ✍️ Daily Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
