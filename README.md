@@ -14,17 +14,15 @@
 ![](https://streak-stats.demolab.com/?user=imranonweb&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imranonweb&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=imranonweb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 📫 Connect with Me
 
 * 💼 **LinkedIn**: [al-imran-emon](https://www.linkedin.com/in/al-imran-emon)
+* 🌐 **Portfolio:** [imranonweb](https://imranonweb.netlify.app/)
+
+
 
 ### CP Profle
 * 💡 **Codeforces**: [imranonweb](https://codeforces.com/profile/imranonweb)
