@@ -24,7 +24,7 @@
 
 
 
-### CP Profle
+### CP Profile
 * 💡 **Codeforces**: [imranonweb](https://codeforces.com/profile/imranonweb)
 * ⭐ **CodeChef**: [imranonweb](https://www.codechef.com/users/imranonweb)
   
