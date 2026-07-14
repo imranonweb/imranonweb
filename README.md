@@ -4,7 +4,7 @@
 
 ## 👋 Hey, It's Md. Al Imran Emon. aka <code>&lt;imranonweb/&gt;</code> 
 
-## 🚀 Updates : 
+## 🚀 Updates 
 
 * 🌱 Learning **Full-Stack Development**
 * 🧠 Solving **DSA** problems
