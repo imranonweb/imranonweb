@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="150" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img width="150" height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlqZGJkeWt0YzRkaXVsMG5jOGdqM2Q1bWdrMndkb2FsdzVrZGZ1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif)" />
 </div>
 
 ## 👋 Hey, I'm Al Imran Emon!
