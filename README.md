@@ -4,12 +4,12 @@
 
 ## 👋 Hey, It's Md. Al Imran Emon. aka <code>&lt;imranonweb/&gt;</code> 
 
-## 🚀 Currently
+## 🚀 Updates : 
 
 * 🌱 Learning **Full-Stack Development**
 * 🧠 Solving **DSA** problems
 * ⚡ Building things
-* ☕ Always learning
+* ☕ Adapting new Challenges
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranonweb&label=Profile%20views&color=brightgreen&style=flat" alt="imranonweb" /> </p>
 
