@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200" height ="200" alt="Coding GIF">
-</div>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRwNnIxYXcwM3Uybm80a2t0dWd0a2M4MXZjejZuNjA3ejJkNTViOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.gif" width="300" alt="Coding Animation">
+</p>
 
 ## 👋 Hey, I'm Al Imran Emon!
 
