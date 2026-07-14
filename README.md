@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="150" height ="100" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="150" height ="150" alt="Coding GIF">
 </div>
 
 ## 👋 Hey, I'm Al Imran Emon!
