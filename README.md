@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="300" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlqZGJkeWt0YzRkaXVsMG5jOGdqM2Q1bWdrMndkb2FsdzVrZGZ1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" alt="Animated GIF">
-</div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1sgetPM00wWqJpVUTl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl">via GIPHY</a></p>
 
 ## 👋 Hey, I'm Al Imran Emon!
 
