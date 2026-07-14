@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRwNnIxYXcwM3Uybm80a2t0dWd0a2M4MXZjejZuNjA3ejJkNTViOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.gif" width="300" alt="Coding Animation">
 </p>
 
-## 👋 Hey, It's Md. Al Imran Emon. aka <code>&lt;imranonweb/&gt;</code> 
+## 👋 Hey, It's Md. Al Imran Emon. aka # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=%3Cimranonweb+%2F%3E" />
 
 ## 🚀 Currently
 
