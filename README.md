@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="150" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
 ## 👋 Hey, I'm Al Imran Emon!
 
 ## 🚀 Currently
