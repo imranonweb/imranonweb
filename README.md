@@ -1,4 +1,6 @@
-![Coding GIF](https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300" alt="Coding GIF">
+</p>
 
 ## 👋 Hey, I'm Al Imran Emon!
 
