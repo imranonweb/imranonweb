@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRwNnIxYXcwM3Uybm80a2t0dWd0a2M4MXZjejZuNjA3ejJkNTViOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.gif" width="300" alt="Coding Animation">
-</div>
+</div> -->
 
-## 👋 Hey, It's Md. Al Imran Emon. aka <code>&lt;imranonweb/&gt;</code> 
+<div align = "center">## 👋 Hey, It's Md. Al Imran Emon. aka <code>&lt;imranonweb/&gt;</code></div> 
 
 ## 🚀 Updates 
 
