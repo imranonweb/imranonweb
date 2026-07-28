@@ -6,7 +6,7 @@
 
 ![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<h1 align="center" style="font-family:caveat">Hey, It's Md. Al Imran Emon. aka <code>&lt;imranonweb/&gt;</code> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center" style="font-family:caveat">Hey, It's Md. Al Imran Emon. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -28,7 +28,7 @@
 ### 📫 Connect with Me
 
 * 💼 **LinkedIn**: [al-imran-emon](https://www.linkedin.com/in/al-imran-emon)
-* 🌐 **Portfolio:** [imranonweb](https://imranonweb.netlify.app/)
+* 🌐 **Portfolio:** [<code>&lt;imranonweb/&gt;</code>](https://imranonweb.netlify.app/)
 ---
 ## Tech Stack
 
