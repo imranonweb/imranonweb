@@ -28,7 +28,7 @@
 ### 📫 Connect with Me
 
 * 💼 **LinkedIn**: [al-imran-emon](https://www.linkedin.com/in/al-imran-emon)
-* 🌐 **Portfolio:** [<code>&lt;imranonweb/&gt;</code>](https://imranonweb.netlify.app/)
+* 🌐 **Portfolio:** [<b><code>&lt;imranonweb/&gt;</code></b>](https://imranonweb.netlify.app/)
 ---
 ## Tech Stack
 
