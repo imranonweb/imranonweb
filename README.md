@@ -15,7 +15,18 @@
 </p>
 
 ---
+<br/>
 
+<!--- about --->
+ ## 🚀 Updates 
+- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
+- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
+- 💬 Solving DSA Problems
+- ⚡ Researching in ML
+- 
+  
+<br/>
 <!-- ## 🚀 Updates 
 
 * 🌱 Learning **Full-Stack Development**
@@ -29,6 +40,7 @@
 
 * 💼 **LinkedIn**: [al-imran-emon](https://www.linkedin.com/in/al-imran-emon)
 * 🌐 **Portfolio:** [<b><code>&lt;imranonweb/&gt;</code></b>](https://imranonweb.netlify.app/)
+* 📫 **[Mail Me ](alimranemon93@@gmail.com)**
 ---
 ## Tech Stack
 
@@ -80,6 +92,8 @@
 --- 
 ### GitHub Contributions:
 ![Snake Grid](https://github.com/imranonweb/contribution-snake/blob/output/grid.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=imranonweb&theme=merko&timezone=UTC%2B6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
