@@ -136,7 +136,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=imranonweb&theme=merko&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
+    src="https://streak-stats.demolab.com?user=imranonweb&theme=sakura-x&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
     alt="GitHub Streak"
   >
 </p>
