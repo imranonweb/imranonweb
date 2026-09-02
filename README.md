@@ -78,6 +78,9 @@
 * 💡 **Codeforces**: [imranonweb](https://codeforces.com/profile/imranonweb)
 * ⭐ **CodeChef**: [imranonweb](https://www.codechef.com/users/imranonweb)
 --- 
+### GitHub Contributions:
+![Snake Grid](https://github.com/imranonweb/contribution-snake/blob/output/grid.svg)
+
 ### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
