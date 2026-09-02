@@ -18,13 +18,13 @@
 <br/>
 
 <!--- about --->
- ## 🚀 Updates 
-- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
-- 💬 Solving DSA Problems
-- ⚡ Researching in ML
-- 
+ ## 🚀 Updates
+
+- 🖥️ Currently working with **React.js, Next.js, TypeScript, and Redux** for frontend development.
+- 🗄️ Exploring **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for backend development.
+- 🛠️ Currently learning **React Native, GraphQL, Docker, and AWS**.
+- 🧠 Solving **DSA & Competitive Programming** problems.
+- 🤖 Exploring **Machine Learning-based Research** and real-world AI applications.
   
 <br/>
 <!-- ## 🚀 Updates 
