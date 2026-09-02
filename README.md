@@ -25,28 +25,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranonweb&label=Profile%20views&color=brightgreen&style=flat" alt="imranonweb" /> </p>
 
-<!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+### 📫 Connect with Me
 
-<div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/al-imran-emon" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="al-imran-emon" height="30" width="40" />
-    </a>
-    <a href="https://imranonweb.netlify.app/" target="_blank">
-      <img src="" alt="Portfolio" height="30" width="40" />
-    </a>
-  </p>
-</div>
-
-<br/>
-cons.dev/icons?i=googlechrome](https://www.flaticon.com/free-icon/portfolio_281089?term=portfolio&page=1&position=6&origin=tag&related_id=281089)" alt="imranonweb" height="30" width="40" />
-    </a>
-  </p>
-</div>
-
-<br/>
-
+* 💼 **LinkedIn**: [al-imran-emon](https://www.linkedin.com/in/al-imran-emon)
+* 🌐 **Portfolio:** [<b><code>&lt;imranonweb/&gt;</code></b>](https://imranonweb.netlify.app/)
 ---
 ## Tech Stack
 
@@ -98,5 +80,4 @@ cons.dev/icons?i=googlechrome](https://www.flaticon.com/free-icon/portfolio_2810
 --- 
 ### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
