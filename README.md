@@ -26,16 +26,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranonweb&label=Profile%20views&color=brightgreen&style=flat" alt="imranonweb" /> </p>
 
 <!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> Lets Connect:</b>
-
-<div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/al-imran-emon" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="al-imran-emon" height="30" width="40" />
-    </a>
-    <a href="https://imranonweb.netlify.app/" target="_blank">
-      <img src="[https://skilli```html
-<!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
 <div>
@@ -44,7 +34,7 @@
       <img src="https://skillicons.dev/icons?i=linkedin" alt="al-imran-emon" height="30" width="40" />
     </a>
     <a href="https://imranonweb.netlify.app/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2810/281089.png" alt="Portfolio" height="30" width="40" />
+      <img src="" alt="Portfolio" height="30" width="40" />
     </a>
   </p>
 </div>
