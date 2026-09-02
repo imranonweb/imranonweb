@@ -47,7 +47,7 @@
 
   <li>
     🌐 <strong>Portfolio:</strong>
-    <a href="https://imranonweb.netlify.app/">
+    <a href="https://imran-codes.netlify.app/">
       <code>&lt;imranonweb/&gt;</code>
     </a>
   </li>
