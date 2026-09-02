@@ -90,10 +90,15 @@
 * 💡 **Codeforces**: [imranonweb](https://codeforces.com/profile/imranonweb)
 * ⭐ **CodeChef**: [imranonweb](https://www.codechef.com/users/imranonweb)
 --- 
-### GitHub Contributions:
-![Snake Grid](https://github.com/imranonweb/contribution-snake/blob/output/grid.svg)
+## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imranonweb&theme=merko&timezone=UTC%2B6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github.com/imranonweb/contribution-snake/blob/output/grid.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imranonweb&theme=merko&timezone=UTC%2B6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</p>
 
 ### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
