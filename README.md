@@ -94,9 +94,6 @@
 
 ### 📊 GitHub Statistics:
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=imranonweb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranonweb&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" /></a> |
-| ------------- | ------------- |
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=imranonweb&theme=merko&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ### ✍️ Daily Dev Quote
